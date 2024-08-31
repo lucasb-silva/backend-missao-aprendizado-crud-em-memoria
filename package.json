@@ -1,0 +1,15 @@
+{
+  "name": "backend-missao-aprendizado-crud-em-memoria",
+  "version": "1.0.0",
+  "description": "Projeto da Missão de Aprendizado da profissão Dev Backend JavaScript: CRUD em Memória",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
